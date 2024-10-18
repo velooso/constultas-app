@@ -6,10 +6,11 @@ import AbaCalendar from './src/screen/abacalendar/abacalendar.jsx';
 import AbaProfile from './src/screen/abaprofile/abaprofile.jsx';
 import Main from './src/screen/main/main.jsx';
 import Services from './src/screen/services/services.jsx';
+import Scheduler from './src/screen/scheduler/scheduler.jsx';
 
 export default function App() {
   return  <>
-    <Services />
+    <Scheduler />
   </>
       
 
